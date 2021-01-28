@@ -25,10 +25,10 @@ This theme uses minimal contrast across the first three variants, but if you fee
 
 ## Contributing
 
-See something strange? Please report [here](https://github.com/whizkydee/vscode-palenight-theme/issues). A screenshot would be great for clarification purposes. Also, you might want to check out the [contributing guide](https://github.com/whizkydee/vscode-palenight-theme/blob/master/contributing.md).
+See something strange? Please report [here](https://github.com/crucialhuman/crucial-vscode-theme/issues). A screenshot would be great for clarification purposes.
 
 ## License
 
-This theme is released under the [MIT License](https://github.com/whizkydee/vscode-palenight-theme/blob/master/license.md).
+This theme is released under the [MIT License](https://github.com/crucialhuman/crucial-vscode-theme/blob/master/LICENSE).
 
-✨ Designed by **[Olaolu Olawuyi](https://olaolu.dev?utm_source=palenight)** in **[Lagos, Nigeria](https://www.google.com/maps/place/Lagos)**. Find me on **[Twitter](https://twitter.com/mrolaolu)** ✨
+✨ Designed by **[Crucial Human](https://crucialhuman.com/products/ide-theme)**. Find us on **[Twitter](https://twitter.com/crucialhuman)** and/or **[LinkedIn](https://twitter.com/crucialhuman)** ✨
