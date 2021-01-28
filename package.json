@@ -1,0 +1,22 @@
+{
+    "name": "crucial-human",
+    "displayName": "Crucial Human",
+    "description": "Awesome theme used by the team at Crucial Human",
+    "version": "0.0.1",
+    "publisher": "CrucialHuman",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Crucial Human",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Crucial Human-color-theme.json"
+            }
+        ]
+    }
+}
