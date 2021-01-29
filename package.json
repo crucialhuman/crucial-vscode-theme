@@ -4,8 +4,20 @@
     "publisherDisplayName": "Crucial Human",
     "author": "Crucial Human (https://crucialhuman.com)",
     "displayName": "Crucial Human",
-    "description": "Awesome theme used by the team at Crucial Human",
-    "version": "0.0.1",
+    "description": "A dark theme used by the team at Crucial Human (https://crucialhuman.com)",
+    "version": "0.0.4",
+    "license": "MIT",
+    "galleryBanner": {
+        "color": "#2b2e44",
+        "theme": "dark"
+    },
+    "icon": "icon.png",
+    "keywords": [
+        "crucial human theme",
+        "crucial",
+        "purple",
+        "dark"
+    ],
     "repository": {
         "url": "https://github.com/crucialhuman/crucial-vscode-theme",
         "type": "git"
