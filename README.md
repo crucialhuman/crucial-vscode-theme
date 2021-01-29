@@ -6,8 +6,9 @@ An awesome theme for VS Code used by the team at [Crucial Human](https://crucial
 
 [![vscode](https://img.shields.io/badge/vscode-v1.52+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12)
 
-![theme preview](https://static.crucialhuman.com/images/crucialhuman-vscode.png)
-![css theme preview](https://static.crucialhuman.com/images/crucialhuman-vscode-css.png)
+![theme preview](https://static.crucialhuman.com/images/crucialhuman-vscode-shadow.png)
+
+![css theme preview](https://static.crucialhuman.com/images/crucialhuman-vscode-css-shadow.png)
 
 </div>
 
