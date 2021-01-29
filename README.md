@@ -18,12 +18,12 @@ An awesome theme for VS Code used by the team at [Crucial Human](https://crucial
 3. Click **Install** to install it
 4. Navigate to File > Preferences > Color Theme > **Crucial Human Theme**
 
-## Contributing
+## Issues
 
-See something strange? Please report [here](https://github.com/crucialhuman/crucial-vscode-theme/issues). A screenshot would be great for clarification purposes.
+Having an issue? Please report [here](https://github.com/crucialhuman/crucial-vscode-theme/issues). Provide screenshots as needed.
 
 ## License
 
 This theme is released under the [MIT License](https://github.com/crucialhuman/crucial-vscode-theme/blob/master/LICENSE).
 
-✨ Designed by **[Crucial Human](https://crucialhuman.com/products/ide-theme)**. Find us on **[Twitter](https://twitter.com/crucialhuman)** and/or **[LinkedIn](https://twitter.com/crucialhuman)** ✨
+Designed by **[Crucial Human](https://crucialhuman.com/products/ide-theme)**. Find us on **[Twitter](https://twitter.com/crucialhuman)** and/or **[LinkedIn](https://twitter.com/crucialhuman)**
