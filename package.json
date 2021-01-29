@@ -1,9 +1,15 @@
 {
     "name": "crucial-human",
+    "publisher": "CrucialHuman",
+    "publisherDisplayName": "Crucial Human",
+    "author": "Crucial Human (https://crucialhuman.com)",
     "displayName": "Crucial Human",
     "description": "Awesome theme used by the team at Crucial Human",
     "version": "0.0.1",
-    "publisher": "CrucialHuman",
+    "repository": {
+        "url": "https://github.com/crucialhuman/crucial-vscode-theme",
+        "type": "git"
+    },
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -13,7 +19,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Crucial Human",
+                "label": "Crucial Human Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Crucial Human-color-theme.json"
             }

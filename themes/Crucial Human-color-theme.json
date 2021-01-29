@@ -50,11 +50,11 @@
 		"activityBarBadge.background": "#5DADE2",
 		"activityBarBadge.foreground": "#ffffff",
 		"sideBar.background": "#2b2e44",
-		"sideBar.foreground": "#6C739A",
+		"sideBar.foreground": "#6e7396",
 		"sideBar.border": "#282B3C",
-		"sideBarTitle.foreground": "#eeffff",
+		"sideBarTitle.foreground": "#bbd4d4",
 		"sideBarSectionHeader.background": "#2b2e44",
-		"sideBarSectionHeader.foreground": "#8f90bb",
+		"sideBarSectionHeader.foreground": "#7a7ba3",
 		"editorGroup.border": "#2b2e44",
 		"editorGroup.dropBackground": "#7e57c273",
 		"editorGroupHeader.noTabsBackground": "#32374C",
@@ -102,7 +102,7 @@
 		"editorWarning.foreground": "#FFCA28",
 		"editorWarning.border": null,
 		"editorGutter.background": null,
-		"editorGutter.modifiedBackground": "#e2b93d",
+		"editorGutter.modifiedBackground": "#618db6",
 		"editorGutter.addedBackground": "#9CCC65",
 		"editorGutter.deletedBackground": "#EF5350",
 		"diffEditor.insertedTextBackground": "#99b76d23",
@@ -144,7 +144,7 @@
 		"panelTitle.activeForeground": "#eeffff",
 		"panelTitle.inactiveForeground": "#bfc7d580",
 		"statusBar.background": "#282C3D",
-		"statusBar.foreground": "#676E95",
+		"statusBar.foreground": "#666c91",
 		"statusBar.border": "#262A39",
 		"statusBar.debuggingBackground": "#202431",
 		"statusBar.debuggingForeground": null,
@@ -253,7 +253,7 @@
 			"name": "Colors CSS Value",
 			"scope": [
 				"constant.numeric.css",
-				"keyword.other.unit.px.css"
+				"keyword.other.unit"
 			],
 			"settings": {
 				"foreground": "#d6995a"
@@ -448,11 +448,19 @@
 				"constant.character",
 				"constant.escape",
 				"variable.parameter",
-				"keyword.other.unit",
 				"keyword.other"
 			],
 			"settings": {
 				"foreground": "#d5d8d6"
+			}
+		},
+		{
+			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
+			"scope": [
+				"support.constant.property-value"
+			],
+			"settings": {
+				"foreground": "#90CAF9"
 			}
 		},
 		{
@@ -524,7 +532,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#d5d8d6"
+				"foreground": "#d5d5d8"
 			}
 		},
 		{
